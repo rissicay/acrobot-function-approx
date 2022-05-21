@@ -9,6 +9,7 @@ jupyter = "*"
 pygame = "*"
 joblib = "*"
 nbconvert = "*"
+matplotlib = "*"
 
 [dev-packages]
 
